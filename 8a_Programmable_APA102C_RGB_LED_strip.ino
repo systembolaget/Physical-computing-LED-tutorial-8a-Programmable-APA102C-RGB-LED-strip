@@ -119,7 +119,7 @@ void shimmer()
     if ( ledState[i] == ledConstant)
     {
       // Randomly select it (larger number = more shimmer)
-      if (random8() < 16)
+      if (random8() < 8)
       {
         // And set it to the brightening state
         ledState[i] = ledBrightens;
