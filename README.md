@@ -8,7 +8,7 @@
 
 ### Schematic
 
-![](Assets/8b%20schematic.png)
+![](Assets/8a%20schematic.png)
 
 ### BOM
 
