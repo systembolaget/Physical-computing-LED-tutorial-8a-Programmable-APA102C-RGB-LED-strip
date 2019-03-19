@@ -17,22 +17,22 @@ struct CRGB leds[numLeds]; // Declare an array that stores each LED's data
 // a sensor's input, or IoT data
 DEFINE_GRADIENT_PALETTE(dummyPalette)
 {
-  0,   0,   0, 255, // Blue
+    0,   0,   0, 255, // Blue
   128,   0, 255,   0, // Green
   255, 255,   0,   0  // Red
 };
 DEFINE_GRADIENT_PALETTE(auroraBorealis) {
-  0,   0, 255,  28,
-  128, 255,   3,   22,
+    0,   0, 255,  28,
+  128, 255,   3,  22,
   192, 247,   1,   9,
   255,   0, 255,  28
 };
 DEFINE_GRADIENT_PALETTE(cumulusClouds)
 {
-  0, 152, 164, 155,
-  30, 139, 152, 140,
-  64, 126, 141, 128,
-  92,  80,  95,  82,
+    0, 152, 164, 155,
+   30, 139, 152, 140,
+   64, 126, 141, 128,
+   92,  80,  95,  82,
   107,  46,  59,  47,
   114,  74,  88,  71,
   123, 110, 124, 102,
