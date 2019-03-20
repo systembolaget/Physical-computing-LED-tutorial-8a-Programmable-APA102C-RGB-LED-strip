@@ -4,7 +4,7 @@
 
 ### Result
 
-![](Assets/8b%20result.jpg)
+![](Assets/8a%20result.jpg)
 
 ### Schematic
 
