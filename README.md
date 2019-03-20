@@ -1,6 +1,6 @@
 # Physical computing tutorial - Programmable APA102C RGB LED strip
 
-... set-up, based on the **FastLED Arduino library**
+Independent colour and brightness transition set-up, based on the **FastLED Arduino library**
 
 ### Result
 
