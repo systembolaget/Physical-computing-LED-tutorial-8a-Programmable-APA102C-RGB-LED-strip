@@ -1,6 +1,6 @@
-# Physical computing LED tutorial - Programmable APA102C RGB LED strip
+# Physical computing LED tutorial - Programmable APA102C RGB LED strip using FastLED
 
-Northern Lights, realised with the FastLED Arduino library
+Aurora Borealis. Northern Lights. How to realise timed animations with APA102C or NeoPixel RGB LED strips using the FastLED Arduino library and gradient palettes
 
 ### Result
 
