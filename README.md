@@ -1,6 +1,6 @@
 # Physical computing LED tutorial - Programmable APA102C RGB LED strip
 
-Independent colour and brightness transition set-up, based on the **FastLED Arduino library**
+Northern Lights, realised with the FastLED Arduino library
 
 ### Result
 
