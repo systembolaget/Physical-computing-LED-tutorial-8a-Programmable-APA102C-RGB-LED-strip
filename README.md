@@ -2,9 +2,11 @@
 
 Aurora Borealis. Northern Lights. How to realise timed animations with APA102C or NeoPixel RGB LED strips using the FastLED Arduino library and gradient palettes
 
-### Result
+### Setup
 
-![](Assets/8a%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/8a%20result.jpg)](https://www.youtube.com/watch?v=yA8sPFrLLoM)
 
 ### Schematic
 
